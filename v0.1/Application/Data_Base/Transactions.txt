@@ -1,4 +1,0 @@
-Date :18/07/2022 , Amount:231.000000 , Account Number:5297507055501022
-Date :18/07/2022 , Amount:321.000000 , Account Number:5297507055828755
-Date :18/07/2022 , Amount:200.000000 , Account Number:5297507055828755
-Date :18/07/2022 , Amount:500.000000 , Account Number:5297507055645688
